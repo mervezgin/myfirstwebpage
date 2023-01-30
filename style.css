@@ -28,3 +28,12 @@
     padding: 0;
 }
 
+.image-heading {
+    text-align: center;
+}
+
+.image-grid {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
