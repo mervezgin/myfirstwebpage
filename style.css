@@ -1,9 +1,5 @@
-.quote {
-    font-style: italic;
+.container {
+    max-width: 840px;
+    margin: 0;
 }
 
-.grid-table {
-    display: grid;
-    grid-template-columns: auto width auto;
-    grid-template-rows: auto auto;
-}
