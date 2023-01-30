@@ -56,3 +56,11 @@
     padding: 0;
 }
 
+.contacts {
+    justify-self: center;
+}
+
+.contacts-list {
+    list-style: none;
+    padding: 0;
+}
